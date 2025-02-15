@@ -23,3 +23,4 @@ class PreventUserAccess
         return redirect('/');
     }
 }
+ 

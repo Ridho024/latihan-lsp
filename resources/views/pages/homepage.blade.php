@@ -16,7 +16,7 @@
                 </p>
             </div>
             <div class="col-12">
-                <a class="btn btn-primary-subtle shadow">Lihat Penerbangan</a>
+                <a class="btn btn-secondary shadow" href="{{ route('jadwalPenerbangan') }}">Lihat Penerbangan</a>
             </div>
         </div>
     </div>
